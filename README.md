@@ -1,2 +1,7 @@
-# Análise de dados em uma empresa de streaming e implementação de ML
-Análise de churn (clientes desistentes) em uma empresa de streaming e desenvolvimento de um modelo preditivo para prever e reduzir a taxa de cancelamentos.
+# Implementação de Machine Learning em Phyton para desenvolver modelos preditivos 
+### Objetivo: 
+Treinar dois modelos preditivos para prever o score de créditos dos clientes
+Comparar accuracy entre os modelos para escolher o que melhor se adequa as necessidades da empresa
+Utilização de Scikit-learn e modelos: árvore de decisões e vizinhos próximos (KNN)
+
+
